@@ -2,5 +2,5 @@
 
 Data Scientist \& AI / Automation Engineer
 
-- LinkedIn: \[in/abdelrahman-tartour](https://www.linkedin.com/in/abdelrahman-tartour/)
+- LinkedIn: [in/abdelrahman-tartour](https://www.linkedin.com/in/abdelrahman-tartour/)
 
