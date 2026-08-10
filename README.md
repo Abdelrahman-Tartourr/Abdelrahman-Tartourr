@@ -1,8 +1,6 @@
-# \# Hi, I'm Abdelrahman Tartour 👋
+# Hi, I'm Abdelrahman Tartour 👋 
 
-# 
-
-# Data Scientist \& AI / Automation Engineer
+Data Scientist \& AI / Automation Engineer
 
 # 
 
