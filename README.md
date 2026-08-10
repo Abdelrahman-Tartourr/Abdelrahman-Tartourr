@@ -1,4 +1,4 @@
-# \### Hi, I'm Abdelrahman 👋
+# \### Hi, I'm Abdelrahman Tartour 👋
 
 # 
 
@@ -32,52 +32,6 @@
 
 # 
 
-# \---
-
-# 
-
-# \### Data Science Projects
-
-# 
-
-# | Project | Status | Stack |
-
-# |---|---|---|
-
-# | \[Transit Demand Forecasting \& Anomaly Detection](#) | 🚧 Building | BigQuery, Python |
-
-# | \[Fleet Performance Scorecard](#) | 🚧 Building | BigQuery SQL |
-
-# | \[Geospatial Coverage Analysis](#) | 🚧 Building | BigQuery GIS, GeoPandas |
-
-# | \[Bilingual Feedback Classifier](#) | 🚧 Building | Python, LLM API |
-
-# | \[Fare-Change Impact Analysis](#) | 🚧 Building | Python, statsmodels |
-
-# 
-
-# \### Automation / AI Engineering Projects
-
-# 
-
-# | Project | Status | Stack |
-
-# |---|---|---|
-
-# | \[Scraper → Change-Alert Pipeline](#) | 🚧 Building | Playwright, GitHub Actions |
-
-# | \[Sheet → LLM Summary → Slack](#) | 🚧 Building | n8n, Claude API |
-
-# | \[Natural-Language BigQuery Agent](#) | 🚧 Building | MCP, Claude API |
-
-# | \[Auto-Report Generator](#) | 🚧 Building | Python, python-docx |
-
-# | \[Multi-Step Tool-Use Agent](#) | 🚧 Building | Claude API, function calling |
-
-# 
-
-# \---
-
 # 
 
 # \### Skills
@@ -88,17 +42,5 @@
 
 # 
 
-# <!--
-
-# NOTES FOR ABDELRAHMAN — delete before publishing:
-
-# \- Replace email/LinkedIn placeholders.
-
-# \- Swap "#" links to the real repo URL as each project goes live.
-
-# \- Change 🚧 to ✅ once a project is done.
-
-# \- Table stays useful even half-empty — it signals "here's the plan," not just "here's what's missing."
-
-# \-->
+# 
 
